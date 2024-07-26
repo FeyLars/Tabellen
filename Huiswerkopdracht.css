@@ -1,0 +1,64 @@
+header {
+    background-color: rgb(112, 45, 205);
+    width: 100%;
+    height: 400px;
+}
+footer {
+    background-color: #80FF30AE;
+    width: 100%;
+    height: 400px;
+}
+#A{
+    background-color:aquamarine;
+}
+#B{
+    background-color:rgb(84, 181, 54);
+}
+#C{
+    background-color:rgb(156, 140, 62);
+}
+#D{
+    background-color:rgb(137, 68, 122);
+}
+#E{
+    background-color:rgb(24, 118, 92);
+    color: darkblue;
+}
+#F{
+    background-color:red;
+}
+#G{
+    background-color: purple;
+    color: rgb(192, 44, 195);
+}
+#H{
+    background-color:darkcyan;
+}
+#I{
+    background-color:lightgreen;
+    color: rgb(58, 130, 37);
+}
+#J{
+    background-color: yellowgreen;
+}
+#K{
+    background-color:hotpink;
+    color: rgb(202, 94, 47);
+}
+#L{
+    background-color:honeydew;
+}
+#M{
+    background-color:rebeccapurple;
+    color: rgb(210, 215, 47);
+}
+#N{
+    background-color:rgb(171, 94, 94);
+}
+#O{
+    background-color:rgb(144, 193, 37);
+    color: rgb(239, 100, 230);
+}
+#P{
+    background-color:rgb(157, 185, 175);
+}
